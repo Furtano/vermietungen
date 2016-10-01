@@ -1,0 +1,57 @@
+html {
+    background-color: #ffffff;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+#content{
+  padding-top: 140px;
+  background-image: url('img/home.jpg');
+  background-attachment: inherit;
+/* Center the background image */
+background-position: center;
+/* Set the background image to no repeat */
+background-repeat: no-repeat;
+/* Scale the background image to be as large as possible */
+  height: 575px;
+  width: 1800px;
+
+}
+#logo {
+  float: left;
+  padding-left: 550px;
+}
+
+#sub {
+  float:left;
+  padding-top: 25px;
+}
+#subpage {
+  float: left;
+  text-align: left;
+  padding-left: 600px;
+  margin-top: -100px;
+}
+
+#subsubpage {
+  float: left;
+  text-align: left;
+  padding-left: 30px;
+  margin-top: -70px;
+}
+nav {
+  float: left;
+  padding-left: 330px;
+  padding-top: 40px;
+}
+nav a {
+  padding-right: 20px;
+  color: black;
+  font-size: 17px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color:#ff5808;
+}
