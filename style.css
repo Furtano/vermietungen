@@ -48,6 +48,13 @@ body {
   padding-right: 40px;
   margin-top: -106px;
 }
+#subpage-leistungen {
+  float: left;
+  text-align: left;
+  padding-left: 160px;
+  padding-right: 20px;
+  margin-top: -106px;
+}
 
 #subsubpage {
   float: left;
@@ -67,10 +74,10 @@ body {
 #subsubpage-leistungen {
   float: left;
   text-align: left;
-  padding-left: 40px;
+  padding-left: 25px;
   padding-right: 30px;
   margin-top: -35px;
-  height: 350px;
+  height: 380px;
 }
 
 #subsubpage-profil2 {
@@ -91,7 +98,7 @@ body {
   float: left;
   text-align: left;
   padding-left: 60px;
-  padding-right: 15px;
+  padding-right: 30px;
   margin-top: -40px;,
 }
 #subsubpage-leistungen3 {

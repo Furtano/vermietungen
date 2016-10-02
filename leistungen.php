@@ -2,17 +2,15 @@
   include("header.php");
  ?>
     <div id="header">
-      <div id="logo">
-        <img src="img/simon.jpg">
-      </div>
       <?php
+        include("logo.php");
         include("nav.php");
        ?>
     </div>
     <div id="leistungencontent">
     </div>
     <div id="sub">
-      <div id="subpage-profil">
+      <div id="subpage-leistungen">
         <p style="color: #ff5808; font-size: 21px; font-weight: bolder;">Business-Adressen (Briefkästen)</p>
         <p style="font-size: 19px; color:#636363; width: 330px; margin-top: 0px;">
           Die SIMON GMBH bietet Ihnen die
@@ -49,7 +47,7 @@
          </p>
       </div>
       <div id="subsubpage-leistungen2" style="width: 300px;padding-left: 30px;">
-        <p style="font-size: 19px; color:#636363; width: 330px; margin-top: 0px;margin-bottom: 0px;">
+        <p style="font-size: 19px; color:#636363; width: 360px; margin-top: 0px;margin-bottom: 0px;">
           kurzfristige Vermietungen sind  eben-
           falls möglich. Die Miethöhe beginnt, je
           nach Ausstattung, bei 3,50 Euro kalt/qm
@@ -69,18 +67,18 @@
 
         <p style="color: #ff5808; font-size: 21px; font-weight: bolder; margin-top: 0px;margin-bottom: 0px;padding-left: 30px;">Lagerräume, Freiflächen außen</p>
 
-        <p style="font-size: 19px; color:#636363; border-left: 1px grey solid; height: 355px;padding-left: 30px;margin-top: 15px;">
+        <p style="font-size: 19px; color:#636363; border-left: 1px grey solid; height: 385px;padding-left: 30px;margin-top: 15px;">
           Unsere Lagerräume sind wahlweise be-
           heizt oder unbeheizt. Die einzelnen
           Hauseingänge sind mit Auffahrten ausge-
           stattet um Ihnen einen problemlosen
           Warentransport zu ermöglichen. Ebenfalls
           ist ausreichend Parkplatz für Ihr Fahrzeug
-          vorhanden.
+          vorhanden.<br/>
           Für Außenarbeiten und geeignete
           Lagerungen bieten wir Freiflächen in unter-
           schiedlichen Größen.
-
+          <br/><br/>
           Unser gesamtes Gelände wird von einem
           Wachschutzunternehmen gesichert.
       </p>

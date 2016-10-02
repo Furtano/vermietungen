@@ -3,10 +3,8 @@
  ?>
     <center>
     <div id="header">
-      <div id="logo">
-        <img src="img/simon.jpg">
-      </div>
       <?php
+        include("logo.php");
         include("nav.php");
        ?>
     </div>
