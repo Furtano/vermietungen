@@ -1,31 +1,16 @@
-<html>
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv='cache-control' content='no-cache'>
-    <meta http-equiv='expires' content='0'>
-    <meta http-equiv='pragma' content='no-cache'>
-    <meta http-equiv="Content-Language" content="de" />
-    <meta name="keywords" content="Vermietungen Gewerblich, Gewerbliche Vermietungen, Simon Vermietungen, SImon Gewerbliche Vermietungen" />
-
-    <link rel="stylesheet" type="text/css" href="style.css">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-  </head>
-  <body>
+<?php
+  include("header.php");
+ ?>
     <center>
     <div id="header">
       <div id="logo">
         <img src="img/simon.jpg">
       </div>
-      <nav>
-        <a href="">HOME</a>
-        <a href="">PROFIL</a>
-        <a href="">LEISTUNGEN</a>
-        <a href="">KONTAKT</a>
-        <a href="">PLAN</a>
-        <a href="">IMPRESSUM</a>
-      </nav>
+    <?php
+      include("nav.php");
+     ?>
     </div>
-    <div id="content">
+    <div id="homecontent">
       <div style="color:#ff5808; text-align: left;font-size: 43px; padding-left: 170px;padding-top: 160px;">Gewerbliche<br/>Vermietungen:</div>
       <ul style="color: white; font-size: 20px; text-align: left; padding-left: 170px; list-style:none;">
         <li>Business Adressen</li>
