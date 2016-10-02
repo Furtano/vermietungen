@@ -9,10 +9,10 @@
     <?php
       include("nav.php");
      ?>
-    </div>
+   </div>
     <div id="homecontent">
-      <div style="color:#ff5808; text-align: left;font-size: 43px; padding-left: 170px;padding-top: 160px;">Gewerbliche<br/>Vermietungen:</div>
-      <ul style="color: white; font-size: 20px; text-align: left; padding-left: 170px; list-style:none;">
+      <div style="font-weight: 600; color:#ff5808; text-align: left;font-size: 44px; padding-left: 100px;padding-top: 200px;line-height: 95%;">Gewerbliche<br/>Vermietungen:</div>
+      <ul style="color: white; font-size: 24px; text-align: left; padding-left: 100px; list-style:none;">
         <li>Business Adressen</li>
         <li>Büroräume</li>
         <li>Lagerräume</li>
@@ -21,11 +21,17 @@
     </div>
     <div id="sub">
       <div id="subpage">
-        <p style="color: #ff5808; font-size: 24px; font-weight: bold;">Unternehmensstandort Berlin</p>
-        <p style="font-size: 17px; color:#636363; width: 400px;">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
+        <p style="font-weight: bolder;color: #ff5808; font-size: 24px; ">Unternehmensstandort Berlin</p>
+        <p style="font-size: 18px; color:#636363; width: 350px;">Sie möchten eine Adresse in der Bundes-
+hauptstadt Berlin haben. Sie möchten bei
+Ihren Kunden einen guten und seriösen Eindruck machen und Ihr Geschäft ankurbeln.
+Dann sollten Sie sich für eine Business-Adresse, einen Büro- oder einen Lagerraum
+auf unserem Berliner Gewerbehof entscheiden. Der international begehrte Standort
+Berlin bietet Ihnen eine einzigartige Vielfalt
+an geschäftlichen, privaten Möglichkeiten. </p>
       </div>
       <div id="subsubpage">
-        <img src="img/home-tower.jpg">
+        <img src="img/home-tower.jpg" style="width: 375px">
       </div>
   </div>
   </center>

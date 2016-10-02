@@ -4,23 +4,24 @@ html {
 body {
     font-family: 'Open Sans', sans-serif;
 }
-#homecontent, #profilcontent {
-  padding-top: 140px;
-  background-attachment: inherit;
-/* Center the background image */
-background-position: center;
-/* Set the background image to no repeat */
-background-repeat: no-repeat;
-/* Scale the background image to be as large as possible */
-  height: 575px;
-  width: 1800px;
+#homecontent, #profilcontent, #leistungencontent {
+  float: left;
+  height: 525px;
+  width: 1644px;
+  clear: both;
 }
-#homecontent{
+#homecontent {
   background-image: url('img/home.jpg');
+  margin-left: 130px;
 }
 #profilcontent {
   background-image: url('img/profil.jpg');
-
+  margin-left: 130px;
+}
+#leistungencontent {
+  background-image: url('img/leistungen.jpg');
+  height: 440px;
+  margin-left: 130px;
 }
 #logo {
   float: left;
@@ -29,9 +30,11 @@ background-repeat: no-repeat;
 
 #sub {
   float:left;
-  padding-top: 25px;
+  padding-top: 105px;
+  clear: both;
 }
 #subpage {
+
   float: left;
   text-align: left;
   padding-left: 600px;
@@ -41,8 +44,9 @@ background-repeat: no-repeat;
 #subpage-profil {
   float: left;
   text-align: left;
-  padding-left: 170px;
-  margin-top: -100px;
+  padding-left: 160px;
+  padding-right: 40px;
+  margin-top: -106px;
 }
 
 #subsubpage {
@@ -55,22 +59,48 @@ background-repeat: no-repeat;
 #subsubpage-profil {
   float: left;
   text-align: left;
-  padding-left: 60px;
-  margin-top: -45px;
+  padding-left: 40px;
+  padding-right: 30px;
+  margin-top: -35px;
+  height: 235px;
+}
+#subsubpage-leistungen {
+  float: left;
+  text-align: left;
+  padding-left: 40px;
+  padding-right: 30px;
+  margin-top: -35px;
+  height: 350px;
 }
 
 #subsubpage-profil2 {
   float: left;
   text-align: left;
-  padding-left: 60px;
-  margin-top: -100px;
+  padding-left: 60px;padding-right: 30px;
+  margin-top: -80px;,
 }
 
 #subsubpage-profil3 {
   float: left;
   text-align: left;
-  padding-left:  60px;
-  margin-top: -45px;
+  padding-left:  50px;
+  margin-top: -37px;
+  height: 235px;
+}
+#subsubpage-leistungen2 {
+  float: left;
+  text-align: left;
+  padding-left: 60px;
+  padding-right: 15px;
+  margin-top: -40px;,
+}
+#subsubpage-leistungen3 {
+  float: left;
+  text-align: left;
+  padding-left:  50px;
+  margin-top: -80px;
+  height: 360px;
+  width: 350px;
 }
 nav {
   float: left;
