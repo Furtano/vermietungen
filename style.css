@@ -1,3 +1,5 @@
+/* Safari 6.1+ (10.0 is the latest version of Safari at this time) */
+
 html {
     background-color: #ffffff;
 
@@ -24,18 +26,18 @@ body {
   margin-left: 130px;
 }
 #logo {
-  display:inline-block;
+  display:inline-block; display: -moz-inline-stack;
   padding-left: 550px;
 }
 
 #sub {
-  padding-top: 100px;
-  padding-left: 220px;
+  margin-top: 100px;
+  margin-left: 220px;
 }
 
 #sub-profil {
   padding-top: 100px;
-  margin-left: 190px;
+  margin-left: 150px;
 }
 #subpage {
   display: inline-block;
@@ -52,33 +54,33 @@ body {
 }
 
 #subpage-profil {
-  display:inline-block;
+  display:inline-block; display: -moz-inline-stack;
   text-align: left;
-  padding-right: 40px;
+  padding-right: 30px;
   margin-top: -106px;
 }
 
 
 #subsubpage-profil {
-  display:inline-block;
+  display:inline-block; display: -moz-inline-stack;
   text-align: left;
-  padding-left: 40px;
+  padding-left: 30px;
   padding-right: 30px;
   margin-top: -35px;
   height: 235px;
 }
 
 #subsubpage-profil2 {
-  display:inline-block;
+  display:inline-block; display: -moz-inline-stack;
   text-align: left;
-  padding-left: 60px;padding-right: 30px;
+  padding-left: 30px;padding-right: 30px;
   margin-top: -80px;,
 }
 
 #subsubpage-profil3 {
-  display:inline-block;
+  display:inline-block; display: -moz-inline-stack;
   text-align: left;
-  padding-left:  50px;
+  padding-left:  30px;
   margin-top: -37px;
   height: 235px;
 }
@@ -120,7 +122,7 @@ body {
 }
 
 #content-kontakt{
-  display:inline-block;
+  display:inline-block; display: -moz-inline-stack;
   height: 505px;
   width: 1644px;
   background-color: #e2e2e2;
@@ -133,7 +135,7 @@ body {
 }
 
 #kontakt-kontaktfeld {
-  display:inline-block;
+  display:inline-block; display: -moz-inline-stack;
   background-color: #69696b;
   width: 411px;
   height: 458px;
@@ -142,19 +144,19 @@ body {
 }
 
 #kontakt-karte {
-  display:inline-block;
+  display:inline-block; display: -moz-inline-stack;
   margin-top: 20px;
   margin-left: 58px;
 }
 
 #kontakt-hinweise {
-  display:inline-block;
+  display:inline-block; display: -moz-inline-stack;
   margin-left: 22px;
   text-align: right;
 
 }
 nav {
-  display:inline-block;
+  display:inline-block; display: -moz-inline-stack;
   padding-left: 330px;
   padding-top: 40px;
   margin-bottom: 20px;
