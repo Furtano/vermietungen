@@ -2,7 +2,7 @@
   include("header.php");
  ?>
   <center>
-    <div id="header">
+    <div id="header" style="margin-top: 27px; margin-left: 5px;">
 
     <?php
       include("nav-kontakt.php");

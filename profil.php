@@ -10,7 +10,7 @@
     </div>
     <div id="profilcontent">
     </div>
-    <div id="sub">
+    <div id="sub-profil">
       <div id="subpage-profil">
         <p style="color: #ff5808; font-size: 21px; font-weight: bolder;">Die Simon Unternehmensgruppe</p>
         <p style="font-size: 19px; color:#636363; width: 330px; margin-top: 0px;">Die Simon GmbH ist ein Konglomerat aus Firmen, die gemeinsam auf dem

@@ -20,7 +20,7 @@
     </div>
     <div id="sub">
       <div id="subpage">
-        <p style="font-weight: bolder;color: #ff5808; font-size: 24px; ">Unternehmensstandort Berlin</p>
+        <p style="font-weight: bolder;color: #ff5808; font-size: 24px; margin: 0px; ">Unternehmensstandort Berlin</p>
         <p style="font-size: 18px; color:#636363; width: 350px;">Sie möchten eine Adresse in der Bundes-
 hauptstadt Berlin haben. Sie möchten bei
 Ihren Kunden einen guten und seriösen Eindruck machen und Ihr Geschäft ankurbeln.
