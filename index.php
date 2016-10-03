@@ -1,7 +1,7 @@
 <?php
   include("header.php");
  ?>
-    <center>
+ <center>
     <div id="header">
 
     <?php
@@ -33,6 +33,7 @@ an geschäftlichen, privaten Möglichkeiten. </p>
         <img src="img/home-tower.jpg" style="width: 375px">
       </div>
   </div>
-  </center>
+</center>
+
   </body>
 </html>

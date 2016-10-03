@@ -1,14 +1,14 @@
 html {
     background-color: #ffffff;
+
 }
 body {
     font-family: 'Open Sans', sans-serif;
+
 }
 #homecontent, #profilcontent, #leistungencontent {
-  float: left;
   height: 525px;
   width: 1644px;
-  clear: both;
 }
 #homecontent {
   background-image: url('img/home.jpg');
@@ -24,32 +24,31 @@ body {
   margin-left: 130px;
 }
 #logo {
-  float: left;
+  display:inline-block;
   padding-left: 550px;
 }
 
 #sub {
-  float:left;
+  display:inline-block;
   padding-top: 105px;
-  clear: both;
+  display:inline-block;
 }
 #subpage {
-
-  float: left;
+  display:inline-block;
   text-align: left;
-  padding-left: 600px;
+  padding-left: 220px;
   margin-top: -100px;
 }
 
 #subpage-profil {
-  float: left;
+  display:inline-block;
   text-align: left;
-  padding-left: 160px;
+  padding-left: 230px;
   padding-right: 40px;
   margin-top: -106px;
 }
 #subpage-leistungen {
-  float: left;
+  display:inline-block;
   text-align: left;
   padding-left: 160px;
   padding-right: 20px;
@@ -57,14 +56,14 @@ body {
 }
 
 #subsubpage {
-  float: left;
+  display:inline-block;
   text-align: left;
   padding-left: 30px;
   margin-top: -70px;
 }
 
 #subsubpage-profil {
-  float: left;
+  display:inline-block;
   text-align: left;
   padding-left: 40px;
   padding-right: 30px;
@@ -72,7 +71,7 @@ body {
   height: 235px;
 }
 #subsubpage-leistungen {
-  float: left;
+  display:inline-block;
   text-align: left;
   padding-left: 25px;
   padding-right: 30px;
@@ -81,28 +80,28 @@ body {
 }
 
 #subsubpage-profil2 {
-  float: left;
+  display:inline-block;
   text-align: left;
   padding-left: 60px;padding-right: 30px;
   margin-top: -80px;,
 }
 
 #subsubpage-profil3 {
-  float: left;
+  display:inline-block;
   text-align: left;
   padding-left:  50px;
   margin-top: -37px;
   height: 235px;
 }
 #subsubpage-leistungen2 {
-  float: left;
+  display:inline-block;
   text-align: left;
   padding-left: 60px;
   padding-right: 30px;
   margin-top: -40px;,
 }
 #subsubpage-leistungen3 {
-  float: left;
+  display:inline-block;
   text-align: left;
   padding-left:  50px;
   margin-top: -80px;
@@ -111,24 +110,20 @@ body {
 }
 
 #content-kontakt{
-  clear: both;
-  float: left;
+  display:inline-block;
   height: 505px;
   width: 1644px;
   background-color: #e2e2e2;
   margin-left: 150px;
-  margin-top: 30px;
 }
 
 #disclaimer-kontakt{
-  clear: both;
-  float: left;
   margin-left: 250px;
   padding-top: 25px;
 }
 
 #kontakt-kontaktfeld {
-  float: left;
+  display:inline-block;
   background-color: #69696b;
   width: 411px;
   height: 458px;
@@ -137,21 +132,22 @@ body {
 }
 
 #kontakt-karte {
-  float: left;
+  display:inline-block;
   margin-top: 20px;
   margin-left: 58px;
 }
 
 #kontakt-hinweise {
-  float: left;
+  display:inline-block;
   margin-left: 22px;
   text-align: right;
 
 }
 nav {
-  float: left;
+  display:inline-block;
   padding-left: 330px;
   padding-top: 40px;
+  margin-bottom: 20px;
 }
 nav a {
   padding-right: 20px;

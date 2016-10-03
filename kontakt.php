@@ -1,6 +1,7 @@
 <?php
   include("header.php");
  ?>
+  <center>
     <div id="header">
 
     <?php
@@ -64,5 +65,7 @@
    <div id="disclaimer-kontakt">
      <img src="img/disclaimer.jpg" />
    </div>
+ </center>
+
   </body>
 </html>
