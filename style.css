@@ -109,6 +109,45 @@ body {
   height: 360px;
   width: 350px;
 }
+
+#content-kontakt{
+  clear: both;
+  float: left;
+  height: 505px;
+  width: 1644px;
+  background-color: #e2e2e2;
+  margin-left: 150px;
+  margin-top: 30px;
+}
+
+#disclaimer-kontakt{
+  clear: both;
+  float: left;
+  margin-left: 250px;
+  padding-top: 25px;
+}
+
+#kontakt-kontaktfeld {
+  float: left;
+  background-color: #69696b;
+  width: 411px;
+  height: 458px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+#kontakt-karte {
+  float: left;
+  margin-top: 20px;
+  margin-left: 58px;
+}
+
+#kontakt-hinweise {
+  float: left;
+  margin-left: 22px;
+  text-align: right;
+
+}
 nav {
   float: left;
   padding-left: 330px;
