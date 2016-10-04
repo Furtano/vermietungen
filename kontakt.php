@@ -10,9 +10,9 @@
    </div>
 
    <div id="content-kontakt">
-     <div style="float: left;text-align: left;">
-       <img src="img/simon-grau.jpg" style="margin-left: 25px; margin-top: 15px;"/><br />
-       <p style="font-size: 14px;margin-left: 100px;color: #858484;">
+     <div style="display: inline-block;text-align: left;margin-right: 45px;">
+       <img src="img/simon-grau.jpg" style="margin-top: 15px;"/><br />
+       <p style="font-size: 14px;margin-left: 0px;color: #858484;">
          Bitterfelder Straße 23B<br />
           Gewerbehof/Haus 4<br />
           12681 Berlin<br />

@@ -37,7 +37,7 @@ body {
 
 #sub-profil {
   padding-top: 100px;
-  margin-left: 150px;
+  margin-left: 260px;
 }
 #subpage {
   display: inline-block;
@@ -58,6 +58,7 @@ body {
   text-align: left;
   padding-right: 30px;
   margin-top: -106px;
+  vertical-align: top;
 }
 
 
@@ -118,19 +119,19 @@ body {
 
 #leistungen-texte {
   padding-top: 30px;
-  margin-left: 100px;
+  margin-left: 160px;
 }
 
 #content-kontakt{
-  display:inline-block; display: -moz-inline-stack;
+  display:inline-block;
   height: 505px;
   width: 1644px;
   background-color: #e2e2e2;
-  margin-left: 150px;
+  margin-left: 120px;
 }
 
 #disclaimer-kontakt{
-  margin-left: 250px;
+  margin-left: 207px;
   padding-top: 25px;
 }
 
@@ -140,16 +141,18 @@ body {
   width: 411px;
   height: 458px;
   margin-top: 20px;
-  margin-left: 20px;
+  margin-left: 30px;
 }
 
 #kontakt-karte {
+  display: inline-block;
   display:inline-block; display: -moz-inline-stack;
   margin-top: 20px;
-  margin-left: 58px;
+  margin-left: 52px;
 }
 
 #kontakt-hinweise {
+  display: inline-block;
   display:inline-block; display: -moz-inline-stack;
   margin-left: 22px;
   text-align: right;

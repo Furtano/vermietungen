@@ -10,7 +10,7 @@
      ?>
    </div>
     <div id="homecontent">
-      <div style="font-weight: 600; color:#ff5808; text-align: left;font-size: 44px; padding-left: 100px;padding-top: 200px;line-height: 95%;">Gewerbliche<br/>Vermietungen:</div>
+      <div style="font-weight: 600; color:#ff5808; text-align: left;font-size: 42px; padding-left: 100px;padding-top: 200px;line-height: 95%;">Gewerbliche<br/>Vermietungen:</div>
       <ul style="color: white; font-size: 24px; text-align: left; padding-left: 100px; list-style:none;">
         <li>Business Adressen</li>
         <li>Büroräume</li>

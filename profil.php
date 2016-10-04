@@ -12,7 +12,7 @@
     </div>
     <div id="sub-profil">
       <div id="subpage-profil">
-        <p style="color: #ff5808; font-size: 21px; font-weight: bolder;">Die Simon Unternehmensgruppe</p>
+        <p style="color: #ff5808; font-size: 21px; font-weight: bolder;margin-top: 25;margin-bottom: 16px;">Die Simon Unternehmensgruppe</p>
         <p style="font-size: 19px; color:#636363; width: 330px; margin-top: 0px;">Die Simon GmbH ist ein Konglomerat aus Firmen, die gemeinsam auf dem
 Gebiet des Bau- und Industrieservice
 tätig sind. Schwerpunkte sind der Stahlbau, die Bauschlosserei, die Vermietung
