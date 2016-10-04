@@ -1,7 +1,9 @@
 <?php
   include("header.php");
  ?>
- <center>
+ <div id="wrapper">
+
+
     <div id="header">
       <?php
         include("logo.php");
@@ -87,7 +89,6 @@
       </p>
       </div>
       </div>
-</center>
-
+ </div>
   </body>
 </html>

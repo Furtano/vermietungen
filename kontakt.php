@@ -1,7 +1,8 @@
 <?php
   include("header.php");
  ?>
-  <center>
+  <div id="wrapper">
+
     <div id="header" style="margin-top: 27px; margin-left: 5px;">
 
     <?php
@@ -10,7 +11,7 @@
    </div>
 
    <div id="content-kontakt">
-     <div style="display: inline-block;text-align: left;margin-right: 45px;">
+     <div style="float: left;text-align: left;margin-right: 45px;">
        <img src="img/simon-grau.jpg" style="margin-top: 15px;"/><br />
        <p style="font-size: 14px;margin-left: 0px;color: #858484;">
          Bitterfelder Straße 23B<br />
@@ -65,7 +66,7 @@
    <div id="disclaimer-kontakt">
      <img src="img/disclaimer.jpg" />
    </div>
- </center>
+ </div>
 
   </body>
 </html>

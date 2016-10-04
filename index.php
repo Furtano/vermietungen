@@ -1,15 +1,14 @@
 <?php
   include("header.php");
  ?>
- <center>
+ <div id="wrapper">
     <div id="header">
-
     <?php
       include("logo.php");
       include("nav.php");
      ?>
    </div>
-    <div id="homecontent">
+    <div id="homecontent" style="clear: both;">
       <div style="font-weight: 600; color:#ff5808; text-align: left;font-size: 42px; padding-left: 100px;padding-top: 200px;line-height: 95%;">Gewerbliche<br/>Vermietungen:</div>
       <ul style="color: white; font-size: 24px; text-align: left; padding-left: 100px; list-style:none;">
         <li>Business Adressen</li>
@@ -33,7 +32,6 @@ an geschäftlichen, privaten Möglichkeiten. </p>
         <img src="img/home-tower.jpg" style="width: 375px">
       </div>
   </div>
-</center>
-
+ </div>
   </body>
 </html>

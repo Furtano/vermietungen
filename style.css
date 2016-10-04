@@ -8,6 +8,11 @@ body {
     font-family: 'Open Sans', sans-serif;
 
 }
+#wrapper {
+  margin: auto;
+  width: 1920px;
+  height: 1060px;
+}
 #homecontent, #profilcontent, #leistungencontent {
   height: 525px;
   width: 1644px;
@@ -15,46 +20,49 @@ body {
 #homecontent {
   background-image: url('img/home.jpg');
   margin-left: 130px;,
+
 }
 #profilcontent {
   background-image: url('img/profil.jpg');
   margin-left: 130px;
+  clear: both;
 }
 #leistungencontent {
   background-image: url('img/leistungen.jpg');
   height: 440px;
   margin-left: 130px;
+  clear: both;
 }
 #logo {
-  display:inline-block; display: -moz-inline-stack;
-  padding-left: 550px;
+  float: left;
+  padding-left: 650px;
 }
 
 #sub {
-  margin-top: 100px;
-  margin-left: 220px;
+  margin-top: 130px;
+  margin-left: 630px;
 }
 
 #sub-profil {
   padding-top: 100px;
-  margin-left: 260px;
+  margin-left: 240px;
 }
 #subpage {
-  display: inline-block;
+  float: left;
   text-align: left;
   padding-left: 0px;
   margin-top: -100px;
 }
 
 #subsubpage {
-  display: inline-block;
+  float: left;
   text-align: left;
   padding-left: 30px;
   margin-top: -70px;
 }
 
 #subpage-profil {
-  display:inline-block; display: -moz-inline-stack;
+  float: left;
   text-align: left;
   padding-right: 30px;
   margin-top: -106px;
@@ -63,7 +71,7 @@ body {
 
 
 #subsubpage-profil {
-  display:inline-block; display: -moz-inline-stack;
+  float: left;
   text-align: left;
   padding-left: 30px;
   padding-right: 30px;
@@ -72,14 +80,14 @@ body {
 }
 
 #subsubpage-profil2 {
-  display:inline-block; display: -moz-inline-stack;
+  float: left;
   text-align: left;
   padding-left: 30px;padding-right: 30px;
   margin-top: -80px;,
 }
 
 #subsubpage-profil3 {
-  display:inline-block; display: -moz-inline-stack;
+  float: left;
   text-align: left;
   padding-left:  30px;
   margin-top: -37px;
@@ -87,13 +95,13 @@ body {
 }
 #subpage-leistungen {
   vertical-align: top;
-  display: inline-block;
+  float: left;
   padding-right: 30px;
   text-align: left;
 }
 #subsubpage-leistungen {
   vertical-align: top;
-  display: inline-block;
+  float: left;
   text-align: left;
   padding-left: 25px;
   padding-right: 30px;
@@ -103,7 +111,7 @@ body {
 
 #subsubpage-leistungen2 {
   vertical-align: top;
-  display: inline-block;
+  float: left;
   text-align: left;
   padding-left: 25px;
   padding-right: 30px;
@@ -112,31 +120,33 @@ body {
 }
 #subsubpage-leistungen3 {
   vertical-align: top;
-  display: inline-block;
+  float: left;
   text-align: left;
   width: 350px;
 }
 
 #leistungen-texte {
   padding-top: 30px;
-  margin-left: 160px;
+  margin-left: 200px;
 }
 
 #content-kontakt{
-  display:inline-block;
+  float: left;
   height: 505px;
   width: 1644px;
   background-color: #e2e2e2;
   margin-left: 120px;
+  padding-left: 28px;
 }
 
 #disclaimer-kontakt{
+  float: left;
   margin-left: 207px;
   padding-top: 25px;
 }
 
 #kontakt-kontaktfeld {
-  display:inline-block; display: -moz-inline-stack;
+  float: left;
   background-color: #69696b;
   width: 411px;
   height: 458px;
@@ -145,23 +155,21 @@ body {
 }
 
 #kontakt-karte {
-  display: inline-block;
-  display:inline-block; display: -moz-inline-stack;
+  float: left;
   margin-top: 20px;
   margin-left: 52px;
 }
 
 #kontakt-hinweise {
-  display: inline-block;
-  display:inline-block; display: -moz-inline-stack;
+  float: left;
   margin-left: 22px;
   text-align: right;
 
 }
 nav {
-  display:inline-block; display: -moz-inline-stack;
+  float: left;
   padding-left: 330px;
-  padding-top: 40px;
+  padding-top: 60px;
   margin-bottom: 20px;
 }
 nav a {

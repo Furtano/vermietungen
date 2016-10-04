@@ -1,7 +1,8 @@
 <?php
   include("header.php");
  ?>
-    <center>
+<div id="wrapper">
+
     <div id="header">
       <?php
         include("logo.php");
@@ -38,7 +39,7 @@ zu beantworten.
       </div>
 
       <div id="subsubpage-profil3" style="border-left: 1px grey solid;"> <p style="font-size: 19px; color:#636363;
-      width: 440px;margin-top:0px;"> Telefon +49 30 47611677<br/> Fax +49 30 47611678<br/> <a
+      margin-top:0px;"> Telefon +49 30 47611677<br/> Fax +49 30 47611678<br/> <a
       href="mailto:info@gewerbliche-vermietungen.net" style="color:#ff5808; font-weight: bold;text-decoration: none;">info@gewerbliche-vermietungen.net</a><br/>
       <br/>Ansprechpartner:<br/>
       Jörg Simon, Frank Simon<br/>
@@ -50,7 +51,7 @@ zu beantworten.
         </p>
       </div>
   </div>
+</div>
 
-  </center>
   </body>
 </html>
