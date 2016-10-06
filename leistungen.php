@@ -33,9 +33,9 @@
         </p>
       </div>
       <div id="subsubpage-leistungen" style="border-left: 1px grey solid;border-right: 1px grey solid;font-size: 19px; color:#636363;">
-        <p style="margin-top: 0px;">
-            eine E-Mailadresse
-            <ul style="font-size: 19px;color:#636363; ">
+        <p style="margin: 0px;">
+            <span style="padding-left: 40px">eine E-Mailadresse</span>
+            <ul style="font-size: 19px;color:#636363; margin-top: 0px; ">
               <li>Telefonnummer mit Weiterleitung</li>
               <li>Internetadresse</li>
               <li>Möbelierter Büro-/Konferenzraum,</li>
@@ -44,9 +44,7 @@
 
             <p style="color: #ff5808; font-size: 21px; font-weight: bolder;">Büroräume</p>
             Wir vermieten Büroräume, in den Größen von ca. 15qm bis 60qm und Doppelräume mit Durchgang. Einige Büroräume sind
-            mit Einbauschränken ausgestattet. Lang-<br/>fristige Mietverträge werden bevorzugt,
-
-
+            mit Einbauschränken ausgestattet. Langfristige Mietverträge werden bevorzugt,
          </p>
       </div>
       <div id="subsubpage-leistungen2" style="padding-left: 30px;">
@@ -71,16 +69,13 @@
 ">
         <p style="color: #ff5808; font-size: 21px; font-weight: bolder;  padding-left: 30px;margin-top: 0px;">Lagerräume, Freiflächen außen</p>
         <p style="font-size: 19px; color:#636363; padding-left: 30px;">
-          Unsere Lagerräume sind wahlweise be-
-          heizt oder unbeheizt. Die einzelnen
-          Hauseingänge sind mit Auffahrten ausge-
-          stattet um Ihnen einen problemlosen
+          Unsere Lagerräume sind wahlweise beheizt oder unbeheizt. Die einzelnen
+          Hauseingänge sind mit Auffahrten ausgestattet um Ihnen einen problemlosen
           Warentransport zu ermöglichen. Ebenfalls
           ist ausreichend Parkplatz für Ihr Fahrzeug
           vorhanden.<br/>
           Für Außenarbeiten und geeignete
-          Lagerungen bieten wir Freiflächen in unter-
-          schiedlichen Größen.
+          Lagerungen bieten wir Freiflächen in unterschiedlichen Größen.
           <br/><br/>
           <span style="color: #ff5808;">
             Unser gesamtes Gelände wird von einem

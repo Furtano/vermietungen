@@ -36,6 +36,7 @@ body {
 #logo {
   float: left;
   padding-left: 650px;
+  padding-top: 15px;
 }
 
 #sub {
@@ -58,7 +59,7 @@ body {
   float: left;
   text-align: left;
   padding-left: 30px;
-  margin-top: -70px;
+  margin-top: -90px;
 }
 
 #subpage-profil {
@@ -133,10 +134,10 @@ body {
 #content-kontakt{
   float: left;
   height: 505px;
-  width: 1644px;
+  width: 1534px;
   background-color: #e2e2e2;
   margin-left: 120px;
-  padding-left: 28px;
+  padding-left: 88px;
 }
 
 #disclaimer-kontakt{
@@ -149,9 +150,9 @@ body {
   float: left;
   background-color: #69696b;
   width: 411px;
-  height: 458px;
+  height: 450px;
   margin-top: 20px;
-  margin-left: 30px;
+  margin-left: 0px;
 }
 
 #kontakt-karte {
@@ -162,13 +163,21 @@ body {
 
 #kontakt-hinweise {
   float: left;
-  margin-left: 22px;
+  margin-left: 52px;
   text-align: right;
 
 }
+
+#kontakt-inputfelder input {
+  margin-top: 18px;
+  height: 30px;
+  width: 330px;
+  color: #8c8c8b;
+  font-size: 15px;
+}
 nav {
   float: left;
-  padding-left: 330px;
+  padding-left: 300px;
   padding-top: 60px;
   margin-bottom: 20px;
 }
