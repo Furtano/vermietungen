@@ -1,4 +1,5 @@
 <?php
+  $titel = "Kontakt / Impressum / Plan";
   include("header.php");
  ?>
   <div id="wrapper">

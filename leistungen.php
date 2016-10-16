@@ -1,4 +1,6 @@
 <?php
+$titel = "Leistungen";
+
   include("header.php");
  ?>
  <div id="wrapper">

@@ -1,4 +1,6 @@
 <?php
+  $titel = "Home";
+
   include("header.php");
  ?>
  <div id="wrapper">

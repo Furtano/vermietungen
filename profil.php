@@ -1,4 +1,6 @@
 <?php
+$titel = "Profil";
+
   include("header.php");
  ?>
 <div id="wrapper">

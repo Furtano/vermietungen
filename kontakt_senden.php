@@ -8,7 +8,7 @@ $telefon = $_GET["telefon"];
 
 
 // mehrere Empfänger
-$empfaenger  = 'm2294@posteo.de'; // beachten Sie das Komma
+$empfaenger  = 'info@gewerbliche-vermietungen.net'; // beachten Sie das Komma
 
 // Betreff
 $betreff = 'Kontaktanfrage von ' . $firma  . ' (' . $name . ')' . '-> Website(Vermietungen)';

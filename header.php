@@ -9,5 +9,6 @@
 
     <link rel="stylesheet" type="text/css" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <title><?php echo $titel; ?> | Gewerbliche Vermietungen (Simon GmbH) </title>
   </head>
   <body>
